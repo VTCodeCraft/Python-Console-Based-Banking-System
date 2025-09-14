@@ -60,8 +60,8 @@ This project is part of **Project-Rollout B3M1** and demonstrates persistent sto
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/banking-system.git
-   cd banking-system
+   [git clone https://github.com/your-username/banking-system.git](https://github.com/VTCodeCraft/Python-Console-Based-Banking-System.git)
+   cd Python-Console-Based-Banking-System
 
 
 ## 📸 Demo (Console Flow)
