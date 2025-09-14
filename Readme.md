@@ -62,3 +62,10 @@ This project is part of **Project-Rollout B3M1** and demonstrates persistent sto
    ```bash
    git clone https://github.com/your-username/banking-system.git
    cd banking-system
+
+
+## 📸 Demo (Console Flow)
+
+    ![Demo](https://github.com/VTCodeCraft/Python-Console-Based-Banking-System/blob/main/Screenshot%202025-09-14%20135246.png?raw=true)
+    ![Demo](https://github.com/VTCodeCraft/Python-Console-Based-Banking-System/blob/main/Screenshot%202025-09-14%20135257.png?raw=true)
+    ![Demo](https://github.com/VTCodeCraft/Python-Console-Based-Banking-System/blob/main/Screenshot%202025-09-14%20135326.png?raw=true)
